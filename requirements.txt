@@ -1,5 +1,4 @@
 streamlit
-pickle
 nltk
 string
 nltk.corpus
