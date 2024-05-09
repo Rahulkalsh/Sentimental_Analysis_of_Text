@@ -1,0 +1,54 @@
+.stApp{
+    margin: 0;
+    padding: 0;
+    background-image: url("https://i.pinimg.com/originals/7f/e7/74/7fe774bbacce09f00cb5b2e3cbc48db3.png");
+    background-size: cover;
+    background-position: center;
+    height: 100vh; /* 100% of the viewport height */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.st-emotion-cache-k7vsyb span{
+    color: #F2AA4CFF;
+    /* background-color: black; */
+    opacity: 0.7;
+
+}
+
+.st-emotion-cache-1yril67 p{
+    color: aqua;
+    /* background-color: black; */
+    opacity: 0.7;
+}
+
+.st-c0{
+    color: #F2AA4CFF !important;
+    font-weight: bold !important;
+}
+.st-af{
+    opacity: 0.7;
+}
+/* .appview-container{
+     background-color: blue;
+} */
+
+.stTextInput>div>div>div>input {
+    background-color: rgba(0, 0, 0, 0.5);
+    border: 2px solid aqua;
+    border-radius: 5px;
+    color: aqua;
+    padding: 10px;
+    font-size: 16px;
+}
+
+.stTextInput>div>div>div>input::placeholder {
+    color: aqua;
+    opacity: 0.7;
+}
+
+.stTextInput>div>div>div>input:focus {
+    outline: none;
+    border-color: cyan;
+    box-shadow: 0 0 5px cyan;
+}

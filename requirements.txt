@@ -1,0 +1,8 @@
+streamlit
+pickle
+nltk
+string
+nltk.corpus
+nltk.tokenize
+nltk.stem.porter
+os
